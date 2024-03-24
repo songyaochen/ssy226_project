@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hasan/Documents/ssy226_5_navi_perception/Code/ros/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hasan/Documents/ssy226_5_navi_perception/Code/ros/catkin_ws/src/ultralytics_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

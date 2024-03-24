@@ -1,0 +1,17 @@
+Examples
+
+For the following examples, assume your username is dvader, and you are logged into your account on the computer empire.gov:
+
+    To copy a file called rebels.txt from your home directory on empire.gov to a directory called revenge in your account on the computer deathstar.com, enter:
+
+    scp ~/rebels.txt dvader@deathstar.com:~/revenge
+
+    You'll be prompted for your password on the destination system (deathstar.com). The command won't work unless you enter the correct password.
+    To copy a directory (and all the files it contains), use scp with the -r option. This tells scp to recursively copy the source directory and its contents.
+
+    To copy the entire revenge directory from your deathstar.com account to your empire.gov account, enter:
+
+    scp -r dvader@deathstar.com:~/revenge ~/revenge
+
+    You'll be prompted for your password on the source system (deathstar.com). The command won't work unless you enter the correct password.
+
