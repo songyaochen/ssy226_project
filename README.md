@@ -21,6 +21,9 @@ The goal of this project is to investigate how different robotic sensors are use
 ## For the final report, pls check "Documentation/final_handin" in main branch  
 ![this is state space model](./Poster_Group5_SSY226.jpg)
 
+## The video link is shown below:  
+[https://www.youtube.com/playlist?list=PLfi-srdJh5ddZDsl7bJtQfmNswJQYdw1R](https://youtu.be/h0tb14CisRg)
+
 ## Git repo structure
 
 In general, the solutions generated within this project will be integrated within a larger scenario. Therefore, it is important to maintain the modularity and reusability of the obtained solutions.
