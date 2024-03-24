@@ -7,8 +7,7 @@ Autonomous Robots are expected to be deployed in offices, factories or household
 
 Students:
 
-- First_name_1 surname_1 student1@mail.xx
-- First_name_2 surname_1 student2@mail.xx
+- Yaochen Song yaochen@chalmers.se
 
 Advisors:
 
@@ -18,6 +17,9 @@ Advisors:
 ## Problem and Goal
 
 The goal of this project is to investigate how different robotic sensors are used for autonomous navigation in indoor environments.
+
+## For the final report, pls check "Modeling and Simulation of Collaborative Highway-merging Vehicles_Group 11" in main branch  
+![this is state space model](./picture/poster.jpeg)
 
 ## Git repo structure
 
