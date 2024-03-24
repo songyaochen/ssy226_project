@@ -23,8 +23,7 @@ The goal of this project is to investigate how different robotic sensors are use
 
 ## The video link is shown below:  
 [https://www.youtube.com/playlist?list=PLfi-srdJh5ddZDsl7bJtQfmNswJQYdw1R](https://youtu.be/h0tb14CisRg)
-
-![this is state space model](./ Documentation/test_video_screenshot.jpg) 
+![this is state space model](./Documentation/test_video_screenshot.jpg) 
 
 ## Git repo structure
 
