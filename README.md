@@ -18,7 +18,7 @@ Advisors:
 
 The goal of this project is to investigate how different robotic sensors are used for autonomous navigation in indoor environments.
 
-## For the final report, pls check "Modeling and Simulation of Collaborative Highway-merging Vehicles_Group 11" in main branch  
+## For the final report, pls check "Documentation/final_handin" in main branch  
 ![this is state space model](./Poster_Group5_SSY226.jpg)
 
 ## Git repo structure
